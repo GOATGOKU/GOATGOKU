@@ -2,7 +2,7 @@
 - 👀 I’m interested in making pc software.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me my discord I'd goat.goku
+- 📫 How to reach me :- my discord I'd goat.goku
 
 <!---
 GOATGOKU/GOATGOKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
